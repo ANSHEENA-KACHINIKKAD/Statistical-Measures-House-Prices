@@ -86,7 +86,7 @@ The goal of this project is to examine the 'price per sqft' variable in the Bang
 
 * `house_price.csv`: The dataset.
 
-* `assignment1.ipynb`: Jupyter Notebook containing the code.
+* `Assignment-1-statistical_measures.ipynb`: Jupyter Notebook containing the code.
 
 
 
